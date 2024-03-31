@@ -1,0 +1,9 @@
+#goal definition
+robot_state target_pos
+int32 robot_id
+---
+#result definition
+bool finish
+---
+#feedback
+int32 cnt

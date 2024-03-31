@@ -1,0 +1,4 @@
+robot_state target_position
+int32 robot_id
+---
+bool done
